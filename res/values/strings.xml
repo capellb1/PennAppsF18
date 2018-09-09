@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PennApps</string>
+    <string name="alfred">Alfred</string>
+    <string name="medical_assist">Emergency Medical Assistant</string>
+    <string name="recovery">Place your friend in the recovery position</string>
+    <string name="prompt">Who is in trouble?</string>
+    <string name="option1">(A)Yourself (B)A Friend (C)Cancel</string>
+    <string name="self_alert">Please stay near this station</string>
+    <string name="prompt2">What happened to your friend?</string>
+    <string name="option2">(A)Alchohol Poisoning (B)Seizure (C)Cancel</string>
+    <string name="called911">EMS Are on their way</string>
+    <string name="responsiveness">Are they responsive or breathing?</string>
+    <string name="option3">(A)Unresponsive (B)No Breath (C)Cancel</string>
+    <string name="position_body">Help them into the recovery position</string>
+    <string name="press_any">Press any key</string>
+    <string name="mouth">Perform CPR until help arrives</string>
+    <string name="heat_body">Keep them warm until help arrives</string>
+    <string name="monitor_body">Monitor the body until EMS arrive</string>
+    <string name="time">Approx. time until arrival:</string>
+    <string name="clear_area">Please clear the area around your friend until the EMS arrive</string>
+
+
+</resources>
